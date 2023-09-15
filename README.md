@@ -1,3 +1,4 @@
+
 # despesas_de_produto
 
 <img src="imagem/video-de-despesas(1).gif">
@@ -45,3 +46,7 @@ Muito útil para acompanhar os gastos ao longo do ano, para nos mantermos organi
 
 ## Autores
 Thays wilsinski
+
+# despesas de produto
+despesas de produtos
+Criamos uma tabela de despesas que tinhamos na nossa casa, usamos HTML e CSS, com o objetivo de saber oque gastamos no mês para ter uma noção de como é pagar as despesas da nossa casa. 
